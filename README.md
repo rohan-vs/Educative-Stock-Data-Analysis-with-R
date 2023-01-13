@@ -5,3 +5,13 @@ R is a programming language and integrated environment that centers on statistic
 In this project, we will explore the basic techniques of visualizing stock market data, calculating moving averages to analyze trends, and computing the returns.
 
 For this, we’ll use the Paltalk, Inc (PALT) stock. Paltalk is a communications software provider that develops secure solutions for multimedia communication and data transmission. For the purpose of this project, we will only analyze a part of the PALT stock dataset. However, we can apply the techniques we’ll learn here to the entire dataset.
+## Skills
+- Data Visualization
+- Data Manipulation
+## Prerequisite
+- Basic coding skills in R
+- Basic knowledge about plotting
+- Basic understanding of statistical tools
+- Basic experience using 'quantmod' and 'ggplot2'
+## Technology
+- Rlang
